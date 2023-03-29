@@ -1,0 +1,2 @@
+# hecto
+Rust text editor.
